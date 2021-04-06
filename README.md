@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-hwang)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **evan-hwang/evan-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
