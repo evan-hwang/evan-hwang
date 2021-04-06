@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-hwang)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Stat -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-hwang&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Pinned Repository -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evan-hwang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Top Langs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-hwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **evan-hwang/evan-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
