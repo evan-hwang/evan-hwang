@@ -27,14 +27,13 @@
 
 <!-- Stat 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-hwang&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
+</div>
 -->
 
 <!-- Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-hwang&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-개발 데이터
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
-</div>
