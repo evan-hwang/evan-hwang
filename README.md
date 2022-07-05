@@ -37,7 +37,10 @@
 <!-- Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-hwang&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div style="float:left;">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
-</div>
+
+<table>
+  <tr>
+    <td> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" /></td>
+  <tr>
+</table>
