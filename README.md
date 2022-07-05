@@ -37,5 +37,5 @@
 -->
 <div>
   <img style="width:49.5%; float:left;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" />
-  <img style="width:49.4%; float:left;" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
+  <img style="width:49%; float:left;" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
 </div>
