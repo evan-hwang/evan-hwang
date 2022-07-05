@@ -35,7 +35,7 @@
 <!-- Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-hwang&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin:30px 0;>
-  <img style="width:50%; float:left;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" />
-  <img style="width:50%; float:left;" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
+<div>
+  <img style="width:49%; float:left;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" />
+  <img style="width:49%; float:left;" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
 </div>
