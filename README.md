@@ -24,9 +24,11 @@
   보이스카웃 규칙을 준수합니다.
 - 가족과의 시간을 즐깁니다. 👫 </br>
   아내와의 데이트, 같이 공부하기, 뒹굴 뒹굴하기는 엄청난 힐링입니다.
+  
+---
 
-<!-- Stat 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-hwang&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Stat 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=evan-hwang&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-hwang&" alt="soumyajit" />
